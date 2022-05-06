@@ -1,0 +1,7 @@
+body {
+	background-color: blue;
+}
+#page {
+	background-color: white;
+	outline: black solid 1px;
+}
